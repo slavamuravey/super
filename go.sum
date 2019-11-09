@@ -1,2 +1,4 @@
 github.com/slavamuravey/gomodule v0.0.0-20191109145030-ce7e1ce4cdc5 h1:BwYOntqJxVgZyqLFup658qpxlg0QO7yMaNFs2T4EbSM=
 github.com/slavamuravey/gomodule v0.0.0-20191109145030-ce7e1ce4cdc5/go.mod h1:62ZYAi52EDHLzM/hByqfKrm/479AhK3PBRT4+2Yq4kY=
+github.com/slavamuravey/gomodule v0.0.1 h1:r3kWpyRGpvm4s5s4Vj9+Anq4BvZugAPOmoFtq8bejcU=
+github.com/slavamuravey/gomodule v0.0.1/go.mod h1:62ZYAi52EDHLzM/hByqfKrm/479AhK3PBRT4+2Yq4kY=
